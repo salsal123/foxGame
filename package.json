@@ -1,0 +1,19 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salsal123/foxGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salsal123/foxGame/issues"
+  },
+  "homepage": "https://github.com/salsal123/foxGame#readme"
+}
